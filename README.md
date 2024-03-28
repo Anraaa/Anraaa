@@ -1,7 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anraaa
+My name is Anraaa ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
-Student Developer
+I'm Student Developer at Esa Unggul University
+<br>
 -----------------
 
 still learning<a href="https://www.github.com/Anraaa" target="_blank" rel="noreferrer"><img
