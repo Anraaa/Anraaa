@@ -30,9 +30,9 @@ ___
 
 ### My Github Stats
 
-<a href="http://www.github.com/Anraaa" align="center"><img src="https://github-readme-stats.vercel.app/api?username=Anraaa&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="Anraaa's GitHub stats" /></a>
-
-<a href="http://www.github.com/Anraaa" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anraaa&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Anraaa" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anraaa&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=anraaa&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anraaa&layout=compact&hide_border=true&theme=nord&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=anraaa&theme=nord&hide_border=true&background=FFFFFF00">
+</p>
 
