@@ -1,3 +1,7 @@
+<audio autoplay loop>
+  <source src="sound.mp3" type="audio/mpeg">
+</audio>
+
 <div align="center">
     <img src="https://github.com/Anraaa/Anraaa/blob/main/main.gif" alt="Main Gif">
 </div>
