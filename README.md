@@ -1,5 +1,5 @@
 <audio autoplay>
-  <source src="sound.mp3" type="audio/mpeg">
+  <source src="./sound.mp3" type="audio/mpeg">
 </audio>
 
 <div align="center">
