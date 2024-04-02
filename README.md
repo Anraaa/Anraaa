@@ -1,5 +1,6 @@
-<audio autoplay>
+<audio controls>
   <source src="./sound.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
 </audio>
 
 <div align="center">
