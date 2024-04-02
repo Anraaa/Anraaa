@@ -1,7 +1,7 @@
-<script>
-    var audio = new Audio('https://github.com/Anraaa/Anraaa/blob/main/sound.mp3');
-    audio.play();
-</script>
+
+<video controls="" autoplay="" name="media">
+    <source src="https://github.com/Anraaa/Anraaa/blob/main/sound.mp3" type="audio/mp3">
+</video>
 
 <div align="center">
     <img src="https://github.com/Anraaa/Anraaa/blob/main/main.gif" alt="Main Gif">
