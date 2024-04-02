@@ -1,7 +1,7 @@
-<audio controls>
-  <source src="./sound.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<script>
+    var audio = new Audio('https://github.com/Anraaa/Anraaa/blob/main/sound.mp3');
+    audio.play();
+</script>
 
 <div align="center">
     <img src="https://github.com/Anraaa/Anraaa/blob/main/main.gif" alt="Main Gif">
