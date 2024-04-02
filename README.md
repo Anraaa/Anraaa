@@ -1,4 +1,4 @@
-<audio autoplay loop>
+<audio autoplay>
   <source src="sound.mp3" type="audio/mpeg">
 </audio>
 
